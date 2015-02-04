@@ -9,6 +9,7 @@ function euler1(){
 		} 
 	}
 	return sum
+	
 }
 
 
